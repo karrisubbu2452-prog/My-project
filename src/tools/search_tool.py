@@ -1,0 +1,1 @@
+def search_query(topic): return [{'title':'mock','snippet':'demo'}]

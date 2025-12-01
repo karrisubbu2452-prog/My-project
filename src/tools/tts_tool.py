@@ -1,0 +1,1 @@
+def synthesize(text): return b''

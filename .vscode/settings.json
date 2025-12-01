@@ -1,0 +1,9 @@
+// {
+//     "python.pythonPath": "venv\\Scripts\\python.exe"
+// }
+
+{
+  "topic": "Recent AI breakthroughs in 2025",
+  "duration_minutes": 20,
+  "style": {"tone": "conversational", "hosts": ["HostA","HostB"], "voice_profile": "Female_US"}
+}
